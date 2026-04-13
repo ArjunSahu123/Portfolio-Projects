@@ -136,12 +136,6 @@ If I extend this project further, I would:
 
 ---
 
-## 📂 Dashboard Preview
-
-(Add your screenshots here in GitHub)
-
----
-
 ## ▶️ How to Use
 
 1. Download the `.pbix` file
